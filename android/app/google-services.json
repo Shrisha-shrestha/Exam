@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "3682617605",
+    "project_id": "live-exams-center-d3922",
+    "storage_bucket": "live-exams-center-d3922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3682617605:android:175dfb5551cc0302194f6c",
+        "android_client_info": {
+          "package_name": "com.creatu.creatu_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3682617605-vk05rb1r8j7ftb4ticcfovng9h1h7vfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNN2MUeI4X_Eg3hZdMWHCSOkRaUHrooUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3682617605-vk05rb1r8j7ftb4ticcfovng9h1h7vfg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3682617605-87t26iiq06t1rl0qpvh2uodtgra6ki6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creatu.creatu-exam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
