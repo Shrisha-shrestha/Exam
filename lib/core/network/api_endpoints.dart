@@ -1,6 +1,6 @@
 class ApiEndPoints {
   static const String baseUrl =
-      'https://creatuexamcms.creatudevelopers.com.np/api/v1/';
+      'https://cms.liveexamscenter.com/api/v1/';
   static const String login = 'user/login';
   static const String register = 'user/register';
   static const String articleListUrl = 'news_and_event';
